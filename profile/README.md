@@ -21,7 +21,7 @@ the list to grow.
 
 ### Project Templates
 
-Ready to create your own Library? The best way to get started is to <b>clone</> (ie, copy) a template and then modify 
+Ready to create your own Library? The best way to get started is to <b>clone</b> (ie, copy) a template and then modify 
 the code in your favorite editor to make it work for your application.
 
 - [template-project](https://github.com/aqueductfluidics/template_project) - This is a reusable skeleton that we use to start a new project. It's not canon, but it's a good starting point...

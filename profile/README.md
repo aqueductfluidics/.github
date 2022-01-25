@@ -1,4 +1,4 @@
-<p><img src="assets/images/logo_blue.svg" alt="Aqueduct Fluidics" /></p>
+<p><img src="https://github.com/aqueductfluidics/.github/blob/main/profile/assets/images/logo_blue.svg" alt="Aqueduct Fluidics" /></p>
 
 Welcome to [Aqueduct Fluidics](https://wp.aqueductfluidics.com)'s GitHub repository collection! 
 

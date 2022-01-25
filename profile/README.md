@@ -17,7 +17,7 @@ the list to grow.
 
 - [example-projects](https://github.com/aqueductfluidics/example_projects) - Example Projects
   - [pH-control](https://github.com/aqueductfluidics/example_projects/tree/main/local/lib/ph_control) - Library that includes PID and On-Off control algorithms
-    for maintaining the pH of a vessel by addition of a base. 
+    for maintaining the pH of a solution by addition of a base. 
 
 ### Project Templates
 
